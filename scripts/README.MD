@@ -1,6 +1,6 @@
 Complements of Marion Enderas. The originals can be found at ::pos{0,2,20.9705,98.6233,1001.1424}
 
-![](images/script_locations.png =250x250)
+![](images/script_locations.png)
 
 Mining Charts (v1.3)
  - Thanks to Silverzero for the original
