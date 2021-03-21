@@ -1,4 +1,4 @@
-Complements of Marion Enderas
+Complements of Marion Enderas. The originals can be found at ::pos{0,2,20.9705,98.6233,1001.1424}
 
 Mining Charts (v1.3)
  - Thanks to Silverzero for the original
@@ -11,3 +11,5 @@ Industry summary (v1.5)
  - Use the mousehweel for scrolling through the list of industrial types.
  - If an industry type has machiens in the error or stopped state the clicking on the error or stopped number for that industry type will create an error stickers to identify the first machine in the list in that state. Addititional clicks on teh same number will move the arror to the next machine in the list.
 
+Industry Status (v1.3)
+ - Link the core and a screen to your programming board. THe name of the slots and the order of the linking do not matter.
