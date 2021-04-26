@@ -6,7 +6,7 @@ Complements of Marion Enderas. The originals can be found at ::pos{0,2,20.9705,9
  - Thanks to Silverzero for the original
  - The mining chart script is a modification fo the ore explorer sript from the Screen Flair project by SilverZero back in 2020
  - The extension provides gravity, average surgace level, atmospheric level, distance in SU, and extimated warp cell cost for the current construct mass. If the board is mounted on a static construct or the construct mass cannot be read then the warp cell cost will not be calculated.
- - Use the mousewheel to scroll through the planets
+ - Use the mousewheel to scroll through the planets and its moons
 
 #### Mining Charts Usage
  - Install a keyboard
