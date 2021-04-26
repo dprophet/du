@@ -9,6 +9,7 @@ Complements of Marion Enderas. The originals can be found at ::pos{0,2,20.9705,9
  - Use the mousewheel to scroll through the planets and its moons
 
 #### Mining Charts Usage
+ - Captain Miller was having a "monent" trying to use this so I wrote some instructions for him!
  - Install a keyboard
  - Link the keyboard to the warp engine and the ships dynamic core (required for warp cell cost calculations)
    - If you dont link to the warp & dynamic core the script still works but it wont calculate the warp cell costs
